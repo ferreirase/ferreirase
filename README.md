@@ -2,7 +2,7 @@
 
 # Bem vindo!
 <img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
-:wave: Olá, Meu nome é Anderson Raphael, tenho 26 anos. Sou Desenvolvedor Web há pelo menos 4 anos e meio, sendo freela em boa parte desse tempo.<br>
+:wave: Olá, Meu nome é Anderson Raphael, tenho 26 anos.<br> Sou Desenvolvedor Web há pelo menos 4 anos e meio, sendo freela em boa parte desse tempo.<br>
 Sempre fui curioso o bastante para me aprofundar muito quando o assunto era tecnologia e isso facilitou minha decisão profissional por essa área.
 Cursando Análise e Desenvolvimento de Sistemas na PUC Goiás.<br>
 <br>
