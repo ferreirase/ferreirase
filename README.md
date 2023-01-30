@@ -5,7 +5,7 @@
 :wave: Olá, Meu nome é Anderson Raphael, tenho 28 anos.<br> Sou Desenvolvedor Web há pelo menos 7 anos, sendo freela em boa parte desse tempo.<br>
 Sempre fui curioso o bastante para me aprofundar muito quando o assunto era tecnologia e isso facilitou minha decisão profissional por essa área.<br>
 <br>
-Desenvolvedor FullStack me especializando na stack **NodeJS** | **ReactJS** | **TypeScript**  
+Desenvolvedor FullStack me especializando em Arquitetura utilizando a stack **NodeJS** | **ReactJS** | **TypeScript**  
 Tenho interesse ainda por Devops, mundo Python(bots/automações) e Blockchain/Web3<br>
 
 Você pode me contatar através das redes sociais abaixo:
