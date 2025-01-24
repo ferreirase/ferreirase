@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
 
 
-:wave: Olá! Meu nome é Anderson Raphael, tenho 29 anos.<br> Há 9 anos resolvendo problemas do mundo real e entregando valor com tecnologia. 
+:wave: Olá! Meu nome é Anderson Raphael, tenho 30 anos.<br> Há 10 anos resolvendo problemas do mundo real e entregando valor com tecnologia. 
 
 Especialista em Back End com a stack JavaScript/TypeScript, mas sempre curioso o bastante para continuar aprendendo, entendendo como as coisas funcionam e se relacionam entre si.
 
